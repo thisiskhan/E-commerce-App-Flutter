@@ -2,7 +2,7 @@
 
 # E-commerce App 
 
-
+<img width="1322" alt="Screenshot 2020-11-24 at 10 23 00 PM" src="https://user-images.githubusercontent.com/72858063/100126237-b53aab00-2ea3-11eb-8a4c-becafb58a305.png">
 
 **Packages we are using:**
 
